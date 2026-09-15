@@ -170,7 +170,7 @@ The dataset and local database are excluded from version control.
 ## 1. Clone the repository
 
     bash
-git clone git@github.com:kimanidennis76-byte/telegronomy-prototype.git
+git clone git@github.com:kimanidennis76-byte/Telegronomy-prototype.git
 cd telegronomy-prototype
 
 
