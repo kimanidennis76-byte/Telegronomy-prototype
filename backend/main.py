@@ -1,0 +1,1 @@
+print("Telegronomy backend is running!")
